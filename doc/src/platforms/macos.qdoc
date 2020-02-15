@@ -111,7 +111,7 @@
     need to change this default, but if needed you can increase it in your project file:
 
     \code
-    QMAKE_MACOSX_DEPLOYMENT_TARGET = 10.13
+    QMAKE_MACOSX_DEPLOYMENT_TARGET = 10.14
     \endcode
 
     \note You should not lower the deployment target beyond the default value set by Qt.
